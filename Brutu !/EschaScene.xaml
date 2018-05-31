@@ -1,0 +1,41 @@
+﻿<Page x:Class="Brutu__.EschaScene"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:vm="clr-namespace:Brutu__.ViewModels"
+      xmlns:local="clr-namespace:Brutu__"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EschaScene" x:Name="escha" Background="Black">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Visibility="{Binding ProgressVisibility}">
+            <TextBlock Margin="0,25,30,0" HorizontalAlignment="Center" FontSize="14" Foreground="White" VerticalAlignment="Top" Text="{Binding Progress}"/>
+            <TextBlock Margin="0,25,0,0"  HorizontalAlignment="Center" FontSize="14" Foreground="White" VerticalAlignment="Top" Text="/"/>
+            <TextBlock Margin="30,25,0,0"  HorizontalAlignment="Center" FontSize="14" Foreground="White" VerticalAlignment="Top" Text="{Binding ProgressMax}"/>
+            <ProgressBar Value="{Binding Progress}" Maximum="{Binding ProgressMax}" Name="useProgress" VerticalAlignment="Bottom" Margin="0,0,0,10" Width="500" Height="40"/>
+        </Grid>
+    <ListBox SelectedIndex="{Binding SelectedIndex}" Grid.Row="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Height="225" Width="500" VerticalAlignment="Top" HorizontalAlignment="Center" Background="Black">
+            <ListBoxItem Name="siltLBI">
+                <StackPanel Width="490" Orientation="Horizontal">
+                <TextBlock Margin="0,0,250,0" FontSize="24" Text="Silt Pouch" Foreground="White"/>
+                    <TextBlock VerticalAlignment="Center" FontSize="12" Text="{Binding SiltPouchTotalText}" Foreground="White"/>
+                </StackPanel>
+             </ListBoxItem>
+            <ListBoxItem Name="beadsLBI">
+                <StackPanel Width="490" Orientation="Horizontal">
+                    <TextBlock Margin="0,0,230,0" FontSize="24" Text="Bead Pouch" Foreground="White"/>
+                    <TextBlock VerticalAlignment="Center" FontSize="12" Text="{Binding BeadPouchTotalText}" Foreground="White"/>
+                </StackPanel>
+            </ListBoxItem>
+        </ListBox>
+        <Button IsEnabled="{Binding ButtonEnabled}" Name="eschaStartButton"  Command="{Binding StartClickCommand}" Margin="200,0,0,25" VerticalAlignment="Bottom" Width="90" Height="40" Grid.Row="1" Content="{Binding ButtonText}" FontSize="22"/>
+        <Button Visibility="{Binding StopVisibility}" Name="eschaStopButton"  Command="{Binding StopClickCommand}" Margin="400,0,0,25" VerticalAlignment="Bottom" Width="90" Height="40" Grid.Row="1" Content="Pause" FontSize="22"/>
+
+    </Grid>
+</Page>

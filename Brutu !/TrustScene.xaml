@@ -1,0 +1,47 @@
+﻿<Page x:Class="Brutu__.TrustScene"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+      xmlns:vm="clr-namespace:Brutu__.ViewModels"
+      mc:Ignorable="d" 
+      d:DesignHeight="425" d:DesignWidth="600"
+      Title="TrustScene" Background="Black">
+
+    <Grid>
+        <Button Name="OpenButton" Command="{Binding OpenClickCommand}" Margin="24,53,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Open" Height="25" Width="50"/>
+        <Button IsEnabled="{Binding SaveButtonEnabled}" Name="SaveButton" Margin="96,53,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Save" Height="25" Width="50"/>
+        <TextBlock Name="FileStatusText" Margin="10,20,0,0" FontSize="20" Foreground="White" Text="{Binding TopText}" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <ListBox Name="SavedListsLB" SelectedIndex="{Binding ListIndex}" ItemsSource="{Binding TulViewModel}" Margin="24,95,0,55" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="24" Foreground="White" Background="Black" Height="275" Width="200">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <i:InvokeCommandAction Command="{Binding ItemClickCommand}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" FontSize="22" Foreground="White"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <ListBox Name="SavedTrustsLB" SelectedIndex="{Binding TrustIndex}" ItemsSource="{Binding TilViewModel}" Margin="0,95,51,55" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="24" Foreground="White" Background="Black" Height="275" Width="200">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" FontSize="22" Foreground="White"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Name="ListAddButton" Margin="69,0,0,10" HorizontalAlignment="Left" VerticalAlignment="Bottom" Content="Add" Height="25" Width="50"/>
+        <Button IsEnabled="{Binding ListRemoveButtonEnabled}" Name="ListRemoveButton" Margin="149,0,0,10" HorizontalAlignment="Left" VerticalAlignment="Bottom" Content="Remove" Height="25" Width="50"/>
+        <Button Name="TrustAddButton" Margin="389,0,0,10" HorizontalAlignment="Left" VerticalAlignment="Bottom" Content="Add" Height="25" Width="50"/>
+        <Button IsEnabled="{Binding TrustRemoveButtonEnabled}" Name="TrustRemoveButton" Margin="469,0,0,10" HorizontalAlignment="Left" VerticalAlignment="Bottom" Content="Remove" Height="25" Width="50"/>
+        <TextBlock Name="ArrowText" FontSize="36" HorizontalAlignment="Left" Margin="267,200,0,0" Foreground="White" TextWrapping="Wrap" Text="->" VerticalAlignment="Top" Height="53" Width="42"/>
+        <TextBlock Name="TrustLBText" FontSize="20" HorizontalAlignment="Left" Margin="349,63,0,0" TextWrapping="Wrap" Text="Trusts in list:" Foreground="White" VerticalAlignment="Top"/>
+        <Button IsEnabled="{Binding SummonButtonEnabled}" Name="SummonButton" Margin="494,61,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Summon" Height="25" Width="55"/>
+    </Grid>
+</Page>

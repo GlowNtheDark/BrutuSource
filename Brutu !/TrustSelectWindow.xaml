@@ -1,0 +1,23 @@
+﻿<Window x:Class="Brutu__.TrustSelectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Brutu__"
+        mc:Ignorable="d"
+        Title="Trust Select" Height="450" Width="300" Background="Black">
+    <Grid>
+        <TextBlock Margin="10,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="18" Text="Select trusts to add to list." Foreground="White"/>
+        <TextBlock Name="SelectedTrustCount" Margin="0,10,25,0" VerticalAlignment="Top" HorizontalAlignment="Right" FontSize="18" Text="0/5" Foreground="White"/>
+        <ListBox Name="TrustMasterList" Background="Black" Margin="0,25,0,0" Height="350" Width="250" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" Width="240" Height="Auto">
+                        <TextBlock FontSize="20" Text="Apururu" Foreground="White"/>
+                        <CheckBox Height="25" Width="15" IsChecked="{Binding Deleteable, Mode=TwoWay}" Margin="145,7,0,0"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

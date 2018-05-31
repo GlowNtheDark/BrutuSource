@@ -1,0 +1,307 @@
+c:\users\snow\source\repos\Brutu !\Brutu !\bin\Debug\EliteAPI.dll
+c:\users\snow\source\repos\Brutu !\Brutu !\bin\Debug\Brutu !.exe.config
+c:\users\snow\source\repos\Brutu !\Brutu !\bin\Debug\Brutu !.exe
+c:\users\snow\source\repos\Brutu !\Brutu !\bin\Debug\Brutu !.pdb
+c:\users\snow\source\repos\Brutu !\Brutu !\bin\Debug\EliteMMO.API.dll
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\EschaScene.g.cs
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\MainWindow.g.cs
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\ZnmScene.g.cs
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\App.g.cs
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !_Content.g.cs
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.cache
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.lref
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\EschaScene.baml
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\MainWindow.baml
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\ZnmScene.baml
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !.g.resources
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu__.Properties.Resources.resources
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.GenerateResource.cache
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CoreCompileInputs.cache
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CopyComplete
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !.exe
+c:\users\snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !.pdb
+C:\Users\Snow\source\repos\Brutu !\Brutu !\obj\Debug\Brutu !.csprojAssemblyReference.cache
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\bin\Debug\EliteAPI.dll
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\bin\Debug\Brutu !.exe.config
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\bin\Debug\Brutu !.exe
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\bin\Debug\Brutu !.pdb
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.csprojAssemblyReference.cache
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\EschaScene.g.cs
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\MainWindow.g.cs
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\ZnmScene.g.cs
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\App.g.cs
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !_Content.g.cs
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.cache
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.lref
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\EschaScene.baml
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\MainWindow.baml
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\ZnmScene.baml
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.g.resources
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu__.Properties.Resources.resources
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.GenerateResource.cache
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CopyComplete
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.exe
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.pdb
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\bin\Debug\Brutu !.exe.manifest
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\bin\Debug\Brutu !.application
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.exe.manifest
+C:\Users\jamie\Desktop\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.application
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\EliteAPI.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Brutu !.exe.config
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Brutu !.exe
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Brutu !.pdb
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Mono.Cecil.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\NuGet.Squirrel.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\SharpCompress.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Splat.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Squirrel.dll
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Splat.pdb
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\bin\Debug\Squirrel.pdb
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.csprojAssemblyReference.cache
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\EschaScene.g.cs
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\MainWindow.g.cs
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\ZnmScene.g.cs
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\App.g.cs
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !_Content.g.cs
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.cache
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.lref
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\EschaScene.baml
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\MainWindow.baml
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\ZnmScene.baml
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.g.resources
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu__.Properties.Resources.resources
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.GenerateResource.cache
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CoreCompileInputs.cache
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CopyComplete
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.exe
+C:\Users\Snow\source\repos\Brutu_!\Brutu !\Brutu !\obj\Debug\Brutu !.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\EliteAPI.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Brutu !.exe.config
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Brutu !.exe
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Brutu !.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\EliteMMO.API.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Mono.Cecil.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\NuGet.Squirrel.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\SharpCompress.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Splat.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Squirrel.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Splat.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\bin\Debug\Squirrel.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !.csprojAssemblyReference.cache
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\EschaScene.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\MainWindow.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\ZnmScene.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\App.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !_Content.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.cache
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.lref
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\EschaScene.baml
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\MainWindow.baml
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\ZnmScene.baml
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !.g.resources
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu__.Properties.Resources.resources
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.GenerateResource.cache
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CoreCompileInputs.cache
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CopyComplete
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !.exe
+C:\Users\Snow\Desktop\Brutu !\Brutu !\Brutu !\obj\Debug\Brutu !.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\EliteAPI.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Brutu !.exe.config
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Brutu !.exe
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Brutu !.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Mono.Cecil.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\NuGet.Squirrel.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\SharpCompress.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Splat.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Squirrel.dll
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Splat.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\bin\Debug\Squirrel.pdb
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.csprojAssemblyReference.cache
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\EschaScene.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\MainWindow.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\ZnmScene.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\App.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !_Content.g.cs
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.cache
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.lref
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\EschaScene.baml
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\MainWindow.baml
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\ZnmScene.baml
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.g.resources
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu__.Properties.Resources.resources
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.GenerateResource.cache
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CoreCompileInputs.cache
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CopyComplete
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.exe
+C:\Users\Snow\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.pdb
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\EliteAPI.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Brutu !.exe.config
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Brutu !.exe
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Brutu !.pdb
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Mono.Cecil.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\NuGet.Squirrel.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\SharpCompress.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Splat.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Squirrel.dll
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Splat.pdb
+C:\Users\jamie\Desktop\Brutu !\Brutu !\bin\Debug\Squirrel.pdb
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.csprojAssemblyReference.cache
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\EschaScene.g.cs
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\MainWindow.g.cs
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\ZnmScene.g.cs
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\App.g.cs
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !_Content.g.cs
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.cache
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !_MarkupCompile.lref
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\EschaScene.baml
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\MainWindow.baml
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\ZnmScene.baml
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.g.resources
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu__.Properties.Resources.resources
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.GenerateResource.cache
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.csproj.CopyComplete
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.exe
+C:\Users\jamie\Desktop\Brutu !\Brutu !\obj\Debug\Brutu !.pdb
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\EliteAPI.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\SharpCompress.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu !.csprojAssemblyReference.cache
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\EschaScene.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\MainWindow.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\ZnmScene.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\App.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\EschaScene.baml
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\MainWindow.baml
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\ZnmScene.baml
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu__.Properties.Resources.resources
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu !.csproj.GenerateResource.cache
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu !.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu !.csproj.CopyComplete
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.exe.config
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.exe
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.pdb
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!_Content.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!_MarkupCompile.cache
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!_MarkupCompile.lref
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.g.resources
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.exe
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.pdb
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\System.Spatial.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\System.Spatial.xml
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.exe.manifest
+C:\Users\jamie\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.application
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\TrustScene.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\TrustScene.baml
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.TrustInfo.xml
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.exe.manifest
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.application
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\CharacterSelectWindow.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\CharacterSelectWindow.baml
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\TrustSelectWindow.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\Debug\TrustSelectWindow.baml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\EliteAPI.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.exe.config
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.exe.manifest
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.application
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.exe
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\Brutu!.pdb
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\SharpCompress.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\System.Spatial.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\System.Spatial.xml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu !.csprojAssemblyReference.cache
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\CharacterSelectWindow.g.cs
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\EschaScene.g.cs
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\MainWindow.g.cs
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\TrustScene.g.cs
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\TrustSelectWindow.g.cs
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\ZnmScene.g.cs
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\App.g.cs
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!_Content.g.cs
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!_MarkupCompile.cache
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!_MarkupCompile.lref
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\CharacterSelectWindow.baml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\EschaScene.baml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\MainWindow.baml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\TrustScene.baml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\TrustSelectWindow.baml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\ZnmScene.baml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.g.resources
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu__.Properties.Resources.resources
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu !.csproj.GenerateResource.cache
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu !.csproj.CoreCompileInputs.cache
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.TrustInfo.xml
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.exe.manifest
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.application
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu !.csproj.CopyComplete
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.exe
+C:\Users\Snow\Desktop\Brutu!\Brutu !\obj\Debug\Brutu!.pdb
+C:\Users\Snow\Desktop\Brutu!\Brutu !\bin\Debug\System.Windows.Interactivity.dll

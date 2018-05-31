@@ -1,0 +1,7 @@
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\x86\Release\EschaScene.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\x86\Release\MainWindow.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\x86\Release\ZnmScene.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\x86\Release\App.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\x86\Release\Brutu !_Content.g.cs
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\x86\Release\Brutu !_MarkupCompile.cache
+C:\Users\jamie\Desktop\Brutu!\Brutu !\obj\x86\Release\Brutu !_MarkupCompile.lref

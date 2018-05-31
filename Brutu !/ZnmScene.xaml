@@ -1,0 +1,56 @@
+﻿<Page x:Class="Brutu__.ZnmScene"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Brutu__"
+      mc:Ignorable="d" 
+      d:DesignHeight="425" d:DesignWidth="600"
+      Title="ZnmScene" Background="Black">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Trapper" FontSize="24" Margin="0,10,0,0" HorizontalAlignment="Center" Foreground="White" Grid.Column="0"/>
+        <TextBlock Text="Choose a trapper to use." FontSize="18" Margin="5,55,0,0" HorizontalAlignment="Left" Foreground="White" Grid.Column="0"/>
+        <ListBox Margin="0,5,0,175" SelectedIndex="{Binding SelectedIndex}" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Height="80" Width="295" VerticalAlignment="Center" HorizontalAlignment="Left" Background="Black">
+            <ListBoxItem Name="nqLBI" Visibility="{Binding NqTrapperFound}">
+                <StackPanel Width="290" Orientation="Horizontal">
+                    <TextBlock Margin="0,0,150,0" FontSize="22" Text="Soultrapper" Foreground="White"/>
+                </StackPanel>
+            </ListBoxItem>
+            <ListBoxItem Name="hqLBI" Visibility="{Binding HqTrapperFound}">
+                <StackPanel Width="290" Orientation="Horizontal">
+                    <TextBlock Margin="0,0,150,0" FontSize="22" Text="Soultrapper2000" Foreground="White"/>
+                </StackPanel>
+            </ListBoxItem>
+        </ListBox>
+        <TextBlock FontSize="14" Margin="5,15,0,75" VerticalAlignment="Center" Foreground="White" Text="Here's how many blank plates I found:"/>
+        <TextBlock Width="25" FontSize="14" Margin="250,15,0,75" VerticalAlignment="Center" Foreground="White" Text="{Binding BlankSoulPlateCount}"/>
+        <TextBlock HorizontalAlignment="Left" Height="80" Width="200" TextWrapping="Wrap" FontSize="14" Margin="5,75,0,0" VerticalAlignment="Center" Foreground="White" Text="Assuming you've cornered something, Click Start. I'll try to equip your stuff and start trapping souls."/>
+        <Button Command="{Binding TrapperClickCommand}" IsEnabled="{Binding TrapperButtonEnabled}" Grid.Column="0" Margin="0,50,7,0" VerticalAlignment="Center" HorizontalAlignment="Right" Content="{Binding TrapperButtonText}" FontSize="24" Height="40" Width="90"/>
+        <Grid Visibility="{Binding TrapperGridVisibilty}" Name="trapProgressGrid" Grid.Column="0">
+            <TextBlock Margin="25,0,0,70" HorizontalAlignment="Left" FontSize="14" Foreground="White" VerticalAlignment="Bottom" Text="Working on your plates:"/>
+            <TextBlock Margin="80,0,0,70" HorizontalAlignment="Center" FontSize="14" Foreground="White" VerticalAlignment="Bottom" Text="{Binding TrapperProgress}"/>
+            <TextBlock Margin="110,0,0,70" HorizontalAlignment="Center" FontSize="14" Foreground="White" VerticalAlignment="Bottom" Text="/"/>
+            <TextBlock Margin="140,0,0,70" HorizontalAlignment="Center" FontSize="14" Foreground="White" VerticalAlignment="Bottom" Text="{Binding TrapperProgressMax}"/>
+            <ProgressBar Value="{Binding TrapperProgress}" Maximum="{Binding TrapperProgressMax}" Margin="0,0,0,10" Width="250" VerticalAlignment="Bottom" Height="50"/>
+        </Grid>
+        <Line X1="0" Y1="0" X2="0" Y2="450" Fill="White" StrokeThickness="10" Stroke="White" Width="3" Height="Auto" Grid.Column="0" HorizontalAlignment="Right"/>
+        <TextBlock Text="Trading" FontSize="24" Margin="0,10,0,0" HorizontalAlignment="Center" Foreground="White"  Grid.Column="1"/>
+        <TextBlock Text="Total Soul Plates in inventory:" FontSize="18" Margin="5,55,0,0" HorizontalAlignment="Left" Foreground="White" Grid.Column="1"/>
+        <TextBlock Text="{Binding SoulPlateCount}" FontSize="18" Margin="5,55,25,0" HorizontalAlignment="Right" Foreground="White" Grid.Column="1"/>
+        <TextBlock Text="Make sure your next to Sanraku. Then click Trade." TextWrapping="Wrap" FontSize="18" Margin="5,100,0,0" HorizontalAlignment="Left" Foreground="White" Grid.Column="1"/>
+        <TextBlock Text="This is designed to be used with the windower plugin Enternity. Get it loaded or this won't work well." VerticalAlignment="Center" TextWrapping="Wrap" FontSize="14" Margin="5,30,0,0" HorizontalAlignment="Left" Foreground="White" Grid.Column="1"/>
+        <Button Command="{Binding TradeClickCommand}" IsEnabled="{Binding TradeButtonEnabled}" Margin="100,0,0,75" VerticalAlignment="Center" HorizontalAlignment="Center" Content="{Binding TradeButtonText}" FontSize="24" Height="40" Width="90" Grid.Column="1"/>
+        <Grid Visibility="{Binding TradeGridVisibilty}" Name="tradeProgressGrid" Grid.Column="1">
+            <TextBlock Margin="25,0,0,70" HorizontalAlignment="Left" FontSize="14" Foreground="White" VerticalAlignment="Bottom" Text="Trading your shit:"/>
+            <TextBlock Margin="80,0,0,70" HorizontalAlignment="Center" FontSize="14" Foreground="White" VerticalAlignment="Bottom" Text="{Binding TradeProgress}"/>
+            <TextBlock Margin="110,0,0,70" HorizontalAlignment="Center" FontSize="14" Foreground="White" VerticalAlignment="Bottom" Text="/"/>
+            <TextBlock Margin="140,0,0,70" HorizontalAlignment="Center" FontSize="14" Foreground="White" VerticalAlignment="Bottom" Text="{Binding TradeProgressMax}"/>
+            <ProgressBar Value="{Binding TradeProgress}" Maximum="{Binding TradeProgressMax}" Margin="0,0,0,10" Width="250" VerticalAlignment="Bottom" Height="50"/>
+        </Grid>
+    </Grid>
+</Page>
